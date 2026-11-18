@@ -1,17 +1,20 @@
 [
-  [
-    "transition",
-    "formal-notice",
-    "取得资质的机构适用第六条。尚无资质的先补资质证明，按旧办法已受理的除外。此前已受理案件仍按原办法提交材料。"
-  ],
-  [
-    "AC-17",
-    "signed-acceptance",
-    "业务受理处：3 月 5 日已按旧办法受理云港机构。"
-  ],
-  [
-    "AC-19",
-    "training-material",
-    "培训演练中演示了“收到申请”字样，此材料没有受理效力。"
-  ]
+  {
+    "record_id": "transition",
+    "source": "formal-notice",
+    "revision": 1,
+    "text": "取得资质的机构适用第六条。尚无资质的先补资质证明，按旧办法已受理的除外。此前已受理案件仍按原办法提交材料。"
+  },
+  {
+    "record_id": "AC-17",
+    "source": "signed-acceptance",
+    "revision": 1,
+    "text": "业务受理处：3 月 5 日已按旧办法受理云港机构。"
+  },
+  {
+    "record_id": "AC-19",
+    "source": "training-material",
+    "revision": 1,
+    "text": "培训演练中演示了“收到申请”字样，此材料没有受理效力。"
+  }
 ]
