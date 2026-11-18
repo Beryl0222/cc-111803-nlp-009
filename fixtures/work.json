@@ -1,0 +1,39 @@
+{
+  "cutoff": "2026-03-06",
+  "clauses": [
+    {
+      "source": "final-12",
+      "route": "原路径",
+      "material": "连续经营证明"
+    },
+    {
+      "source": "final-12",
+      "route": "现路径",
+      "material": "新制资质登记"
+    },
+    {
+      "source": "draft-12",
+      "route": "原路径",
+      "material": "草案附件"
+    }
+  ],
+  "applications": [
+    {
+      "id": "A-1",
+      "filing": "AC-17",
+      "materials": [
+        {
+          "id": "D-27",
+          "material": "新制资质登记",
+          "stage": "待交",
+          "route": "现路径"
+        }
+      ]
+    },
+    {
+      "id": "A-2",
+      "filing": "AC-19",
+      "materials": []
+    }
+  ]
+}
