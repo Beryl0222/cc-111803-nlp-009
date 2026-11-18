@@ -1,14 +1,17 @@
 [
-  {
-    "record_id": "draft-12",
-    "source": "consultation-draft",
-    "revision": 1,
-    "text": "意见稿：相关机构应在 90 日内完成报送，适用范围尚待确认。"
-  },
-  {
-    "record_id": "final-12",
-    "source": "formal-notice",
-    "revision": 1,
-    "text": "正式通告：仅持牌机构应于生效后 120 日内报送。"
-  }
+  [
+    "transition",
+    "formal-notice",
+    "取得资质的机构适用第六条。尚无资质的先补资质证明，按旧办法已受理的除外。此前已受理案件仍按原办法提交材料。"
+  ],
+  [
+    "AC-17",
+    "signed-acceptance",
+    "业务受理处：3 月 5 日已按旧办法受理云港机构。"
+  ],
+  [
+    "AC-19",
+    "training-material",
+    "培训演练中演示了“收到申请”字样，此材料没有受理效力。"
+  ]
 ]

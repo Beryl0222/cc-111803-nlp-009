@@ -1,0 +1,24 @@
+{
+  "publisher": "业务受理处",
+  "filings": [
+    {
+      "ref": "AC-17",
+      "issuer": "业务受理处",
+      "received": "2026-03-05"
+    },
+    {
+      "ref": "AC-19",
+      "issuer": "培训材料"
+    }
+  ],
+  "documents": [
+    {
+      "id": "draft-12",
+      "stage": "草案"
+    },
+    {
+      "id": "final-12",
+      "stage": "正式"
+    }
+  ]
+}
