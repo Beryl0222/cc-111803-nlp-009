@@ -1,0 +1,68 @@
+{
+  "cutoff": "2026-03-06",
+  "requirements": [
+    {
+      "clause": "final-12#2",
+      "material": "连续经营证明",
+      "issuer": "登记机关",
+      "period": "2025年度"
+    },
+    {
+      "clause": "final-12#3",
+      "material": "资质证明",
+      "issuer": "登记机关",
+      "period": "2025年度"
+    }
+  ],
+  "applications": [
+    {
+      "id": "A-1",
+      "institution": "云港机构",
+      "materials": []
+    },
+    {
+      "id": "A-2",
+      "institution": "云港机构",
+      "materials": []
+    },
+    {
+      "id": "A-3",
+      "institution": "云港机构",
+      "materials": [
+        {
+          "id": "M-1",
+          "title": "资质证明",
+          "stage": "已交",
+          "issuer": "登记机关",
+          "period": "2025年度"
+        },
+        {
+          "id": "M-2",
+          "title": "资质证明",
+          "stage": "已交",
+          "issuer": "行业协会",
+          "period": "2025年度"
+        },
+        {
+          "id": "M-3",
+          "title": "连续经营证明",
+          "stage": "已交",
+          "issuer": "登记机关",
+          "period": "2024年度"
+        },
+        {
+          "id": "M-4",
+          "title": "连续经营证明",
+          "stage": "草稿",
+          "issuer": "登记机关",
+          "period": "2025年度"
+        }
+      ]
+    },
+    {
+      "id": "A-4",
+      "institution": "云港机构",
+      "materials": []
+    }
+  ]
+}
